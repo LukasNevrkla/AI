@@ -1,0 +1,10 @@
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\bin\Debug\ArtificialIntelligenceEditor.exe
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\bin\Debug\ArtificialIntelligenceEditor.pdb
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\obj\Debug\ArtificialIntelligenceEditor.csprojResolveAssemblyReference.cache
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\obj\Debug\ArtificialIntelligenceEditor.Properties.Resources.resources
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\obj\Debug\ArtificialIntelligenceEditor.csproj.GenerateResource.Cache
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\obj\Debug\ArtificialIntelligenceEditor.csproj.CoreCompileInputs.cache
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\obj\Debug\ArtificialIntelligenceEditor.exe
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\obj\Debug\ArtificialIntelligenceEditor.pdb
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\obj\Debug\ArtificialIntelligenceEditor.Artificial_Intelligence_Editor.resources
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\obj\Debug\ArtificialIntelligenceEditor.csprojAssemblyReference.cache

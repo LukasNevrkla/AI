@@ -1,0 +1,2 @@
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\obj\Release\ArtificialIntelligenceEditor.Artificial_Intelligence_Editor.resources
+F:\Programming\C#\C#_Projets\ArtificialIntelligenceEditor\ArtificialIntelligenceEditor\obj\Release\ArtificialIntelligenceEditor.csproj.GenerateResource.cache
